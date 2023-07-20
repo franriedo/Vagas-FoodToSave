@@ -12,7 +12,7 @@ Vem ser **#SuperFoodsavers** 🧡
 
 ## Nossas oportunidades 🚀
 
-- [SRE/ DevOps](https://foodtosave.gupy.io/job/eyJqb2JJZCI6MzA4NDkwMCwic291cmNlIjoiZ3VweV9wdWJsaWNfcGFnZSJ9?jobBoardSource=gupy_public_page)
+- [Backend Sênior](https://foodtosave.gupy.io/job/eyJzb3VyY2UiOiJndXB5X3B1YmxpY19wYWdlIiwiam9iSWQiOjM2ODgzMTZ9?jobBoardSource=gupy_public_page)
 - [Tech Lead](https://foodtosave.gupy.io/job/eyJqb2JJZCI6MzA4MzUxNCwic291cmNlIjoiZ3VweV9wdWJsaWNfcGFnZSJ9?jobBoardSource=gupy_public_page)
 
 Acesse nossa página de carreiras e confira as oportunidades: [Página de carreiras - Food To Save](https://foodtosave.gupy.io/)
